@@ -1,72 +1,56 @@
-Package: com.irepo.goodcc
+Package: com.applereborn.goodcc
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: @_AppleExpert <aplerebornweb@gmail.com>
 Depends: mobilesubstrate
-Filename: ./debs/com.irepo.goodcc_1.0_iphoneos-arm.deb
-Size: 6462
-MD5sum: 9831e1848865bb8752a4c2ca795f9f6a
-SHA1: 553507764ca64d5dba9047be80fcd587942190a6
-SHA256: 371c00e7b13be976f006f4da889bff4524e329264028a75407c4510df195f6c3
+Filename: ./debs/com.applereborn.goodcc_1.0_iphoneos-arm.deb
+Size: 6466
+MD5sum: 3c0d9bc3aa64b23bcf7b22bfb9d3317e
+SHA1: c4132362d6ab7010577ca36fa8aca2e85e7df77f
+SHA256: f524536e7b91f6bdd06624e5c12149e42e54ee38a58bebc136adb85ad3cefcb1
 Section: Tweaks
 Description: Fully disable WiFi and Bluetooth in cc.
 Author: @_AppleExpert <aplerebornweb@gmail.com>
 Name: GoodCC
 
-Package: com.irepo.ihatescreentimebyp
-Version: 1.1
+Package: com.applereborn.ihatescreentimebyp
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: @_AppleExpert <aplerebornweb@gmail.com>
-Depends: mobilesubstrate
-Filename: ./debs/com.irepo.ihatescreentimebyp_1.1_iphoneos-arm.deb
-Size: 6448
-MD5sum: a600db862c59f3c1b147565cd870af4f
-SHA1: 410977e68dec0494770e17f871d4951c3aca3a39
-SHA256: 67b80b06b0faded80197a588e68ab8f14d903d1a14bebb968dc86576e377058b
+Filename: ./debs/com.applereborn.ihatescreentimebyp_1.0_iphoneos-arm.deb
+Size: 6450
+MD5sum: 20ce9614b5d0aed75bae3e55c414e733
+SHA1: 61a00670985d119a0f5710215e33d1a1d1288f36
+SHA256: 0008cce28311d02edd74be20e26d8a7d2dfe185207c37ab6bc2d6fef56bbc6c5
 Section: Tweaks
 Description: Semi bypass for Screen Time. This tweak will let you open any blocked app even though screen time is enabled with a pin. Downside to this, sound doesn't work, and YouTube also doesn't work.
 Author: @_AppleExpert <aplerebornweb@gmail.com>
 Name: iHateScreenTimeBYP
 
-Package: com.irepo.nopassafterrespring
+Package: com.applereborn.obscaminsaller
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: @_AppleExpert <aplerebornweb@gmail.com>
-Depends: mobilesubstrate
-Filename: ./debs/com.irepo.nopassafterrespring_1.0_iphoneos-arm.deb
-Size: 894
-MD5sum: 8bd53d6b2a94f8c0ced0aebd874a42de
-SHA1: 5efb3e8d2289af887381b684e334e470db1b69a8
-SHA256: f0382fd0ba50930c98da9c631d1971b44f658a0ebc16c8ceeb41efe4eb9345ac
+Filename: ./debs/com.applereborn.obscaminsaller_1.0_iphoneos-arm.deb
+Size: 4970920
+MD5sum: 449da1ad5caa3e25214641dd1e566390
+SHA1: 3d55fab7897d3745568d5c1c52950acb8196c207
+SHA256: ea948470cbbb0e14f435ae308f68297ae027bd75f5b629057f430feab1be5d4a
 Section: Tweaks
-Description: Disables passcode after a respring. To fully remove tweak, remove the tweak in your package manager and restart your iPhone. If you don’t restart your device, the device will still disable the passcode after respring.
-Author: @_AppleExpert <aplerebornweb@gmail.com>
-Name: NoPassAfterRespring
-
-Package: com.irepo.obscaminsaller
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: @_AppleExpert <aplerebornweb@gmail.com>
-Filename: ./debs/com.irepo.obscaminsaller_1.0_iphoneos-arm.deb
-Size: 4970904
-MD5sum: 7ab61a614155f0fb757910ae1c401ac9
-SHA1: 918a687d0d52736512cb21b4ae35f9b4d35ac07f
-SHA256: ba423ebe56c52a2486cba967ae1012a30e1b0352897d2880578acca004dd8d68
-Section: Applications
 Description: Use your idevice as a webcam for OBS.
 Author: @_AppleExpert <aplerebornweb@gmail.com>
 Name: OBS Camera App Installer
 
-Package: com.irepo.transparentdock14
+Package: com.applereborn.transparentdock14
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: @_AppleExpert <aplerebornweb@gmail.com>
 Depends: mobilesubstrate
-Filename: ./debs/com.irepo.transparentdock14_1.0_iphoneos-arm.deb
-Size: 4620
-MD5sum: fed9fd3fc88641877aa55a008f590ccd
-SHA1: 3ce3caef989caa02b1c54a9dc5c02aed1f5e5212
-SHA256: 415be5bd736f1feb5be16ad05642b4b73ae852d48c0fccf30186ffa1eafc864f
+Filename: ./debs/com.applereborn.transparentdock14_1.0_iphoneos-arm.deb
+Size: 4638
+MD5sum: 287687973d86219053151592755b6214
+SHA1: 33f7c1eda7ce9a3bc8940555bd16e20518c94071
+SHA256: fbfdb6c6d6180e018220029aa83f887810a1066f5c796a9b824de9554d116647
 Section: Tweaks
 Description: What the title says.
 Author: @_AppleExpert <aplerebornweb@gmail.com>
